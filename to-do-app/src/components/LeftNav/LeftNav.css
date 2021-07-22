@@ -1,0 +1,16 @@
+.nav-bar {
+    background-color: beige;
+    width: 20vw;
+    height: 100vh;
+}
+
+.nav-bar__logo {
+    margin: 0;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.nav-bar__items {
+    list-style-type: none;
+
+}
