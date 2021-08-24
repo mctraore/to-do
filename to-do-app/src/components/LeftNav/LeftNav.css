@@ -1,7 +1,7 @@
 .nav-bar {
     background-color: beige;
     width: 20vw;
-    height: 100vh;
+    height: 100%;
 }
 
 .nav-bar__logo {
@@ -12,5 +12,9 @@
 
 .nav-bar__items {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
 
 }
